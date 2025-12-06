@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Kelvin Oktabrian",
+    "nim": "23523089",
+    "major": "Informatika",
+    "gpa": 3.69
+  },
+  {
+    "id": 2,
+    "name": "Bagus Subakri",
+    "nim": "23423082",
+    "major": "Teknik Elektro",
+    "gpa": 3.85
+  },
+  {
+    "id": 3,
+    "name": "Arzal Nabil Qitfiru",
+    "nim": "23523244",
+    "major": "Informatika",
+    "gpa": 3.89
+  }
+]
